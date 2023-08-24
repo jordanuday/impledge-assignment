@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-container {
+    padding: 50px;
+    font-family: Sans-Serif;
+
+}
+
+.main-heading {
+    color: #CC0000;
+    font-family: Sans-Serif;
+    font-size: 24px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+h1 span {
+    background: #fff;
+    padding: 0 10px;
+}
+
+.container-1 {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    width: 90%;
+    height: 30%;
+    margin: 10px;
+}
+
+.container-2 {
+
+    border: 1px solid #EF0107;
+    background-color: #FBCEB1;
+    border-radius: 5px;
+    padding: 20px;
+    width: 90%;
+    height: 60%;
+    margin: 10px;
+}
+
+.radio-input-1 {
+    accent-color: #EF0107;
+}
+
+.para-3 {
+    overflow: hidden;
+    text-overflow: clip;
+    font-weight: bold;
+    color: #CC0000;
+}
+
+.para-2-span {
+    text-decoration: line-through;
+    color: #959596;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.top-label {
+    display: block;
+}
+
+.container-3 {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    width: 90%;
+    height: 30%;
+    margin: 10px;
+}
+
+.radio-input-1 {
+    margin-top: 10px;
+}
+
+.btn {
+    color: #fff;
+    font-size: 16px;
+    display: block;
+    width: 100%;
+    background-color: #AA0000;
+}
+
+.footer-para {
+    text-align: end;
+}
+
+.paragraph {
+    color: #CC0000;
+}
+
+.total {
+    margin-left: 70%;
+    color: black;
+    text-align: end;
+}
+
+.container-4 {
+    margin: 10px;
+    width: 90%;
+}
